@@ -5,7 +5,7 @@ public class Ejercicio3 {
         System.out.printf("%-10s     %-10s \n","Leon","Lion");
         System.out.printf("%-10s     %-10s \n","Pez","Fish");
         System.out.printf("%-10s     %-10s \n","Mono","Monkey");
-        System.out.printf("%-10s     %-10s \n","Tiger","Tiger");
+        System.out.printf("%-10s     %-10s \n","Tigre","Tiger");
         System.out.printf("%-10s     %-10s \n","Mosquito","Mosquito");
         System.out.printf("%-10s     %-10s \n","Jirafa","Giraffe");
         System.out.printf("%-10s     %-10s \n","Ñu","Wildebeest");
