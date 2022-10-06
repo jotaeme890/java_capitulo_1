@@ -1,5 +1,6 @@
 public class Ejercicio5 {
     public static void main(String args[]){
+
         String rojo = "\033[31m"; 
         String blanco ="\033[97m";
         String negro ="\033[90m";
