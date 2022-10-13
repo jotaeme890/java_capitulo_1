@@ -1,3 +1,9 @@
+/**
+ * 4 Escribe un programa que muestre tu horario de clase.
+ * 
+ *  @author jotaeme
+*/
+
 public class Ejercicio4 {
     public static void main(String args[]){
         System.out.printf("%-11s %-10s %-10s %-10s %-10s %-10s\n"," HORAS", "LUNES", "MARTES", "MIÉRCOLES", "JUEVES", "VIERNES");
