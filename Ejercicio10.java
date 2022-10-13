@@ -1,3 +1,9 @@
+/**
+ *  10 Mejora el ejercicio anterior añadiéndole colores.
+ * 
+ *  @author jotaeme
+*/
+
 public class Ejercicio10 {
     public static void main(String args[]){
         String rojo = "\033[31m";
