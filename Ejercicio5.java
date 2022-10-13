@@ -1,3 +1,9 @@
+/**
+ * 5 Modifica el programa anterior añadiendo colores. Puedes mostrar cada asignatura de un color diferente.
+ * 
+ *  @author jotaeme
+*/
+
 public class Ejercicio5 {
     public static void main(String args[]){
 
